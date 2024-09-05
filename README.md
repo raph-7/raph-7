@@ -1,7 +1,6 @@
 ## Hi there! I'm Raph 👋
 ### 🔭 I’m currently working on [Watoto Na Codi](https://www.watotonacodi.com)
-### 🌱 I’m currently learning Bootstrap CSS, Angular, & Next JS
-
+### 🌱 Recently launched [Jaysons International Consultancy](https://www.thejaysonsconsultancyinternational.com)
 <!--
 **raph-7/raph-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
